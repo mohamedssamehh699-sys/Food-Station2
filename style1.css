@@ -1343,6 +1343,7 @@ article.menu-card:hover { transform: translateY(-6px); border-color: #d4a5504d; 
 
 /* Footer */
 footer {
+    flex:  1;
   background: #0a0a0a;
   border-top: 1px solid #d4a5501a;
   padding: 2rem 4rem;
